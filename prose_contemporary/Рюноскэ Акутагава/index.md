@@ -1,0 +1,4 @@
+* ![](/books/prose_contemporary/Рюноскэ%20Акутагава/Бал.jpg) [Бал](/books/prose_contemporary/Рюноскэ%20Акутагава/Бал)
+* ![](/books/prose_contemporary/Рюноскэ%20Акутагава/О-Рицу%20и%20ее%20дети.jpg) [О-Рицу и ее дети](/books/prose_contemporary/Рюноскэ%20Акутагава/О-Рицу%20и%20ее%20дети)
+* ![](/books/prose_contemporary/Рюноскэ%20Акутагава/Паутинка.jpg) [Паутинка](/books/prose_contemporary/Рюноскэ%20Акутагава/Паутинка)
+* ![](/books/prose_contemporary/Рюноскэ%20Акутагава/Рассказ%20об%20одной%20мести.jpg) [Рассказ об одной мести](/books/prose_contemporary/Рюноскэ%20Акутагава/Рассказ%20об%20одной%20мести)
