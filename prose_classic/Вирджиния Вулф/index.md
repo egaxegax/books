@@ -1,2 +1,4 @@
-* ![](/books/prose_classic/Вирджиния%20Вулф/Орландо.jpg) [Орландо](/books/prose_classic/Вирджиния%20Вулф/Орландо)
-* ![](/books/prose_classic/Вирджиния%20Вулф/Флаш.jpg) [Флаш](/books/prose_classic/Вирджиния%20Вулф/Флаш)
+![](/books/prose_classic/Вирджиния%20Вулф/Орландо.jpg)  
+[Орландо](/books/prose_classic/Вирджиния%20Вулф/Орландо)
+![](/books/prose_classic/Вирджиния%20Вулф/Флаш.jpg)  
+[Флаш](/books/prose_classic/Вирджиния%20Вулф/Флаш)
