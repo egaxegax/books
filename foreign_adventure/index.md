@@ -1,2 +1,4 @@
+Список разделов *foreign_adventure*
+
 * [Грегори Дэвид Робертс](/books/foreign_adventure/Грегори%20Дэвид%20Робертс)
 * [Эдгар Райс Берроуз](/books/foreign_adventure/Эдгар%20Райс%20Берроуз)

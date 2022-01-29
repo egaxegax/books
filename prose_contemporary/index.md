@@ -1,3 +1,5 @@
+Список разделов *prose_contemporary*
+
 * [Борис Виан](/books/prose_contemporary/Борис%20Виан)
 * [Виктор Олегович Пелевин](/books/prose_contemporary/Виктор%20Олегович%20Пелевин)
 * [Габриэль Гарсия Маркес](/books/prose_contemporary/Габриэль%20Гарсия%20Маркес)

@@ -1,3 +1,5 @@
+Список разделов *det_classic*
+
 * [Arthur Conan Doyle](/books/det_classic/Arthur%20Conan%20Doyle)
 * [Артур Конан Дойл](/books/det_classic/Артур%20Конан%20Дойл)
 * [Дж. Чейз](/books/det_classic/Дж.%20Чейз)
