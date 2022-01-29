@@ -3,7 +3,9 @@
 
 ![](/books/literature_history/Александр%20Дюма/Асканио.jpg)  
 [Асканио](/books/literature_history/Александр%20Дюма/Асканио)
+
 ![](/books/literature_history/Александр%20Дюма/Изабелла%20Баварская.jpg)  
 [Изабелла Баварская](/books/literature_history/Александр%20Дюма/Изабелла%20Баварская)
+
 ![](/books/literature_history/Александр%20Дюма/Сальватор.%20Том%201.jpg)  
 [Сальватор. Том 1](/books/literature_history/Александр%20Дюма/Сальватор.%20Том%201)
