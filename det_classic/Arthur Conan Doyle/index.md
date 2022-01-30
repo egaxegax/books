@@ -1,35 +1,35 @@
 Английский писатель детективного жанра.
 
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/A%20Study%20in%20Scarlet.jpg)  
-[A Study in Scarlet](/books/det_classic/Arthur%20Conan%20Doyle/A%20Study%20in%20Scarlet)
+![](A%20Study%20in%20Scarlet.jpg)  
+[A Study in Scarlet](A%20Study%20in%20Scarlet)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/Contes%20De%20Terreur.jpg)  
-[Contes De Terreur](/books/det_classic/Arthur%20Conan%20Doyle/Contes%20De%20Terreur)
+![](Contes%20De%20Terreur.jpg)  
+[Contes De Terreur](Contes%20De%20Terreur)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/His%20Last%20Bow.jpg)  
-[His Last Bow](/books/det_classic/Arthur%20Conan%20Doyle/His%20Last%20Bow)
+![](His%20Last%20Bow.jpg)  
+[His Last Bow](His%20Last%20Bow)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/Le%20Chien%20Des%20Baskerville.jpg)  
-[Le Chien Des Baskerville](/books/det_classic/Arthur%20Conan%20Doyle/Le%20Chien%20Des%20Baskerville)
+![](Le%20Chien%20Des%20Baskerville.jpg)  
+[Le Chien Des Baskerville](Le%20Chien%20Des%20Baskerville)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/Les%20Cinq%20Pépins%20D'Orange.jpg)  
-[Les Cinq Pépins D'Orange](/books/det_classic/Arthur%20Conan%20Doyle/Les%20Cinq%20Pépins%20D'Orange)
+![](Les%20Cinq%20Pépins%20D'Orange.jpg)  
+[Les Cinq Pépins D'Orange](Les%20Cinq%20Pépins%20D'Orange)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/Memoirs%20of%20Sherlock%20Holmes.jpg)  
-[Memoirs of Sherlock Holmes](/books/det_classic/Arthur%20Conan%20Doyle/Memoirs%20of%20Sherlock%20Holmes)
+![](Memoirs%20of%20Sherlock%20Holmes.jpg)  
+[Memoirs of Sherlock Holmes](Memoirs%20of%20Sherlock%20Holmes)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes.jpg)  
-[The Adventures of Sherlock Holmes](/books/det_classic/Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes)
+![](The%20Adventures%20of%20Sherlock%20Holmes.jpg)  
+[The Adventures of Sherlock Holmes](The%20Adventures%20of%20Sherlock%20Holmes)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/The%20Case%20Book%20of%20Sherlock%20Holmes.jpg)  
-[The Case Book of Sherlock Holmes](/books/det_classic/Arthur%20Conan%20Doyle/The%20Case%20Book%20of%20Sherlock%20Holmes)
+![](The%20Case%20Book%20of%20Sherlock%20Holmes.jpg)  
+[The Case Book of Sherlock Holmes](The%20Case%20Book%20of%20Sherlock%20Holmes)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/The%20Memoirs%20of%20Sherlock%20Holmes.jpg)  
-[The Memoirs of Sherlock Holmes](/books/det_classic/Arthur%20Conan%20Doyle/The%20Memoirs%20of%20Sherlock%20Holmes)
+![](The%20Memoirs%20of%20Sherlock%20Holmes.jpg)  
+[The Memoirs of Sherlock Holmes](The%20Memoirs%20of%20Sherlock%20Holmes)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/The%20Return%20of%20Sherlock%20Holmes.jpg)  
-[The Return of Sherlock Holmes](/books/det_classic/Arthur%20Conan%20Doyle/The%20Return%20of%20Sherlock%20Holmes)
+![](The%20Return%20of%20Sherlock%20Holmes.jpg)  
+[The Return of Sherlock Holmes](The%20Return%20of%20Sherlock%20Holmes)
 
-![](/books/det_classic/Arthur%20Conan%20Doyle/Une%20Étude%20En%20Rouge.jpg)  
-[Une Étude En Rouge](/books/det_classic/Arthur%20Conan%20Doyle/Une%20Étude%20En%20Rouge)
+![](Une%20Étude%20En%20Rouge.jpg)  
+[Une Étude En Rouge](Une%20Étude%20En%20Rouge)

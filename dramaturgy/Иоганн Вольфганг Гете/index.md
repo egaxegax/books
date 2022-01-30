@@ -1,5 +1,5 @@
-![](/books/dramaturgy/Иоганн%20Вольфганг%20Гете/Stella.jpg)  
-[Stella](/books/dramaturgy/Иоганн%20Вольфганг%20Гете/Stella)
+![](Stella.jpg)  
+[Stella](Stella)
 
-![](/books/dramaturgy/Иоганн%20Вольфганг%20Гете/Torquato%20Tasso.jpg)  
-[Torquato Tasso](/books/dramaturgy/Иоганн%20Вольфганг%20Гете/Torquato%20Tasso)
+![](Torquato%20Tasso.jpg)  
+[Torquato Tasso](Torquato%20Tasso)
