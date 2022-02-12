@@ -80,8 +80,8 @@ https://egaxegax.github.io/books.html?emma_bekker
 https://egaxegax.github.io/books.html?emma_bekker/vkus_ljubvi
 https://egaxegax.github.io/books.html?erika_leonard_djejms
 https://egaxegax.github.io/books.html?erika_leonard_djejms/pyatdesyat_ottenkov_serogo
-https://egaxegax.github.io/books.html?kl_parker
-https://egaxegax.github.io/books.html?kl_parker/million_zapretnyh_naslajdenij
+https://egaxegax.github.io/books.html?k_l_parker
+https://egaxegax.github.io/books.html?k_l_parker/million_zapretnyh_naslajdenij
 https://egaxegax.github.io/books.html?alberto_moravia
 https://egaxegax.github.io/books.html?alberto_moravia/ya_i_on
 https://egaxegax.github.io/books.html?djejd_li/ognennaya_tigrica
@@ -215,7 +215,7 @@ https://egaxegax.github.io/books.html?djejms_hedli_chejz
 https://egaxegax.github.io/books.html?djejms_hedli_chejz/iskatel_1961-1991_vypusk_1
 https://egaxegax.github.io/books.html?djejms_hedli_chejz/legko_prihodyat_–_legko_uhodyat
 https://egaxegax.github.io/books.html?djejms_hedli_chejz/delo_o_zadushennoj_«zvezdochke»
-https://egaxegax.github.io/books.html?djejms_hedli_chejz/ty_svoe_poluchish__«on_svoe_poluchit»_ili_«vozvrata_net»
+https://egaxegax.github.io/books.html?djejms_hedli_chejz/ty_svoe_poluchish_«on_svoe_poluchit»_ili_«vozvrata_net»
 https://egaxegax.github.io/books.html?djejms_hedli_chejz/tolko_za_nalichnye
 https://egaxegax.github.io/books.html?djejms_hedli_chejz/savan_dlya_svidetelej
 https://egaxegax.github.io/books.html?djejms_hedli_chejz/koe-chto_po_sluchaju
@@ -306,12 +306,12 @@ https://egaxegax.github.io/books.html?kir_bulychev/«gostya_iz_budushchego»_sce
 https://egaxegax.github.io/books.html?kir_bulychev/guslyar-2000
 https://egaxegax.github.io/books.html?kir_bulychev/rodimye_pyatna
 https://egaxegax.github.io/books.html?kir_bulychev/sto_let_tomu_vpered_[gostya_iz_budushchego]
-https://egaxegax.github.io/books.html?kir_bulychev/apologiya
+https://egaxegax.github.io/books.html?kir_bulychev/apologiya_
 https://egaxegax.github.io/books.html?kir_bulychev/skandal
 https://egaxegax.github.io/books.html?kir_bulychev/naslednik_1914_god
 https://egaxegax.github.io/books.html?kir_bulychev/guslyar_naveki
 https://egaxegax.github.io/books.html?kir_bulychev/jilcy
-https://egaxegax.github.io/books.html?kir_bulychev/«tvoya_rashel»
+https://egaxegax.github.io/books.html?kir_bulychev/«tvoya_rashel_»
 https://egaxegax.github.io/books.html?kir_bulychev/dva_sapoga_–_para
 https://egaxegax.github.io/books.html?kir_bulychev/otcy_i_deti
 https://egaxegax.github.io/books.html?kir_bulychev/princy_v_bashne
@@ -640,7 +640,7 @@ https://egaxegax.github.io/books.html?karel_chapek/ischeznovenie_aktera_bendy
 https://egaxegax.github.io/books.html?karel_chapek/telegramma
 https://egaxegax.github.io/books.html?karel_chapek/prestuplenie_v_krestyanskoj_seme
 https://egaxegax.github.io/books.html?karel_chapek/kollekciya_marok
-https://egaxegax.github.io/books.html?karel_chapek/rur_sredstvo_makropulosa_vojna_s_salamandrami_fantasticheskie_rasskazy
+https://egaxegax.github.io/books.html?karel_chapek/r_u_r_sredstvo_makropulosa_vojna_s_salamandrami_fantasticheskie_rasskazy
 https://egaxegax.github.io/books.html?karel_chapek/obyknovennoe_ubijstvo
 https://egaxegax.github.io/books.html?karel_chapek/osvobojdennyj
 https://egaxegax.github.io/books.html?karel_chapek/prisyajnyj
@@ -750,7 +750,7 @@ https://egaxegax.github.io/books.html?richard_oldington/vse_ljudi_—_vragi
 https://egaxegax.github.io/books.html?richard_oldington/semero_protiv_rivza
 https://egaxegax.github.io/books.html?djordj_oruell
 https://egaxegax.github.io/books.html?djordj_oruell/da_budet_fikus
-https://egaxegax.github.io/books.html?djordj_oruell/1984_perevod_golysheva_vp
+https://egaxegax.github.io/books.html?djordj_oruell/1984_perevod_golysheva_v_p_
 https://egaxegax.github.io/books.html?djordj_oruell/doch_svyashchennika
 https://egaxegax.github.io/books.html?djordj_oruell/dni_v_birme
 https://egaxegax.github.io/books.html?djordj_oruell/pamyati_katalonii
@@ -798,7 +798,7 @@ https://egaxegax.github.io/books.html?valter_skott/abbat
 https://egaxegax.github.io/books.html?valter_skott/edinburgskaya_temnica
 https://egaxegax.github.io/books.html?devid_morrell/zashchitnik
 https://egaxegax.github.io/books.html?fridrih_nicshe
-https://egaxegax.github.io/books.html?fridrih_nicshe/antihristianin_proklyatie_hristianstvu
+https://egaxegax.github.io/books.html?fridrih_nicshe/antihristianin_proklyatie_hristianstvu_
 https://egaxegax.github.io/books.html?fridrih_vilgelm_nicshe
 https://egaxegax.github.io/books.html?fridrih_vilgelm_nicshe/k_genealogii_morali
 https://egaxegax.github.io/books.html?fridrih_nicshe/po_tu_storonu_dobra_i_zla
@@ -893,7 +893,7 @@ https://egaxegax.github.io/books.html?nikolaj_m_karamzin/izbrannye_sochineniya_v
 https://egaxegax.github.io/books.html?seren_kerkegor
 https://egaxegax.github.io/books.html?seren_kerkegor/dnevnik_obolstitelya
 https://egaxegax.github.io/books.html?nikolaj_mihajlovich_karamzin
-https://egaxegax.github.io/books.html?nikolaj_mihajlovich_karamzin/izbrannye_sochineniya_v_dvuh_tomah_tom_2
+https://egaxegax.github.io/books.html?nikolaj_mihajlovich_karamzin/izbrannye_sochineniya_v_dvuh_tomah_tom_2_
 https://egaxegax.github.io/books.html?seren_kerkegor/strah_i_trepet
 https://egaxegax.github.io/books.html?nikolaj_mihajlovich_karamzin/bednaya_liza
 https://egaxegax.github.io/books.html?lazar_karmen
@@ -1148,7 +1148,7 @@ https://egaxegax.github.io/books.html?sharlotta_bronte/emma
 https://egaxegax.github.io/books.html?djordj_gordon_bajron
 https://egaxegax.github.io/books.html?djordj_gordon_bajron/vampir
 https://egaxegax.github.io/books.html?anton_pervushin
-https://egaxegax.github.io/books.html?anton_pervushin/kosmicheskaya_fantastika_ili_kosmos_budet_nashim!_antologiya
+https://egaxegax.github.io/books.html?anton_pervushin/kosmicheskaya_fantastika_ili_kosmos_budet_nashim!_antologiya_
 https://egaxegax.github.io/books.html?aleksej_bobl
 https://egaxegax.github.io/books.html?aleksej_bobl/pulya-kvant
 https://egaxegax.github.io/books.html?ekaterina_borovikova
@@ -1539,7 +1539,7 @@ https://egaxegax.github.io/books.html?arkadij_natanovich_strugackij/vozvrashchen
 https://egaxegax.github.io/books.html?arkadij_strugackij/juk_v_muravejnike
 https://egaxegax.github.io/books.html?grigorij_nikitich_grebnev
 https://egaxegax.github.io/books.html?grigorij_nikitich_grebnev/mir_inoj
-https://egaxegax.github.io/books.html?arkadij_strugackij/strana_bagrovyh_tuch_c_illjustr
+https://egaxegax.github.io/books.html?arkadij_strugackij/strana_bagrovyh_tuch_c_illjustr_
 https://egaxegax.github.io/books.html?arkadij_strugackij/paren_iz_preispodnej
 https://egaxegax.github.io/books.html?arkadij_strugackij/trudno_byt_bogom
 https://egaxegax.github.io/books.html?arkadij_strugackij/popytka_k_begstvu
@@ -1633,8 +1633,8 @@ https://egaxegax.github.io/books.html?janna_ivanovna_svetlova
 https://egaxegax.github.io/books.html?janna_ivanovna_svetlova/vizit_iz_proshlogo
 https://egaxegax.github.io/books.html?janna_ivanovna_svetlova/volshebnye_mantry
 https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn
-https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn/v_kruge_pervom_t2
-https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn/v_kruge_pervom_t1
+https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn/v_kruge_pervom_t_2
+https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn/v_kruge_pervom_t_1
 https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn/rakovyj_korpus
 https://egaxegax.github.io/books.html?aleksandr_isaevich_soljenicyn/odin_den_ivana_denisovicha
 https://egaxegax.github.io/books.html?aleksandr_soljenicyn
@@ -1763,7 +1763,7 @@ https://egaxegax.github.io/books.html?andrej_chernecov
 https://egaxegax.github.io/books.html?andrej_chernecov/kon_blednyj
 https://egaxegax.github.io/books.html?aleksandr_navara
 https://egaxegax.github.io/books.html?aleksandr_navara/zlaya_vojna
-https://egaxegax.github.io/books.html?andrej_levickij/s_h_v_a_t_k_a
+https://egaxegax.github.io/books.html?andrej_levickij/s_h_v_a_t_k_a_
 https://egaxegax.github.io/books.html?vasilij_orehov/zona_porajeniya
 https://egaxegax.github.io/books.html?andrej_lvovich_livadnyj
 https://egaxegax.github.io/books.html?andrej_lvovich_livadnyj/kontrolnyj_vybros
@@ -1954,13 +1954,13 @@ https://egaxegax.github.io/books.html?kirill_kirillov/zemlya_yaguara
 https://egaxegax.github.io/books.html?igor_chubaha
 https://egaxegax.github.io/books.html?igor_chubaha/rimskaya_ruletka
 https://egaxegax.github.io/books.html?mariya_chepurina
-https://egaxegax.github.io/books.html?mariya_chepurina/sssm
+https://egaxegax.github.io/books.html?mariya_chepurina/s_s_s_m_
 https://egaxegax.github.io/books.html?valerij_gennadevich_samohin
 https://egaxegax.github.io/books.html?valerij_gennadevich_samohin/prejskurant_na_pobedu
 https://egaxegax.github.io/books.html?mihail_loginov
 https://egaxegax.github.io/books.html?mihail_loginov/bitva_za_kreml
 https://egaxegax.github.io/books.html?sergej_udalin
-https://egaxegax.github.io/books.html?sergej_udalin/ne_hodite_deti
+https://egaxegax.github.io/books.html?sergej_udalin/ne_hodite_deti_
 https://egaxegax.github.io/books.html?vera_kovalchuk/mladshij_konung
 https://egaxegax.github.io/books.html?nataliya_obrazcova
 https://egaxegax.github.io/books.html?nataliya_obrazcova/zamok_tajn
@@ -2067,7 +2067,7 @@ https://egaxegax.github.io/books.html?erih_mariya_remark/tri_tovarishcha
 https://egaxegax.github.io/books.html?erih_mariya_remark/teni_v_raju
 https://egaxegax.github.io/books.html?erih_mariya_remark/prijut_grez
 https://egaxegax.github.io/books.html?erih_mariya_remark/na_zapadnom_fronte_bez_peremen
-https://egaxegax.github.io/books.html?erih_mariya_remark/iskra_jizni_[perevod_rejvadisa]
+https://egaxegax.github.io/books.html?erih_mariya_remark/iskra_jizni_[perevod_r_ejvadisa]
 https://egaxegax.github.io/books.html?erih_mariya_remark/zemlya_obetovannaya
 https://egaxegax.github.io/books.html?erih_mariya_remark/vremya_jit_i_vremya_umirat
 https://egaxegax.github.io/books.html?erih_mariya_remark/vozvrashchenie
@@ -2161,7 +2161,7 @@ https://egaxegax.github.io/books.html?fedor_mihajlovich_dostoevskij/besy
 https://egaxegax.github.io/books.html?oskar_uajld
 https://egaxegax.github.io/books.html?oskar_uajld/prestuplenie_lorda_artura_sevila
 https://egaxegax.github.io/books.html?oskar_uajld/portret_doriana_greya
-https://egaxegax.github.io/books.html?oskar_uajld/portret_g-na_ug
+https://egaxegax.github.io/books.html?oskar_uajld/portret_g-na_u_g_
 https://egaxegax.github.io/books.html?robert_louis_stevenson
 https://egaxegax.github.io/books.html?robert_louis_stevenson/the_black_arrow
 https://egaxegax.github.io/books.html?djon_ronald_ruel_tolkin/vlastelin_kolec
@@ -2210,9 +2210,9 @@ https://egaxegax.github.io/books.html?maksim_gorkij/bolshaya_ljubov
 https://egaxegax.github.io/books.html?aleksandr_grin
 https://egaxegax.github.io/books.html?aleksandr_grin/fandango
 https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin
-https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_6_doroga_nikuda_rasskazy
-https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_4_zolotaya_cep_rasskazy
-https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_3_alye_parusa_blistajushchij_mir_rasskazy
+https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_6_doroga_nikuda_rasskazy_
+https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_4_zolotaya_cep_rasskazy_
+https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_3_alye_parusa_blistajushchij_mir_rasskazy_
 https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_2_rasskazy_1909-1915
 https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/tom_1_rasskazy_1907-1912
 https://egaxegax.github.io/books.html?aleksandr_stepanovich_grin/seryj_avtomobil
