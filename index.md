@@ -1,4 +1,4 @@
-Список разделов *books*
+Список разделов
 
 * [adv_animal](adv_animal)
 * [adv_geo](adv_geo)
