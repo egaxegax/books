@@ -1,5 +1,3 @@
-Список разделов *adv_history*
-
 * [Robert Louis Stevenson](Robert%20Louis%20Stevenson)
 * [Александр Дюма](Александр%20Дюма)
 * [Андрей Калганов](Андрей%20Калганов)
