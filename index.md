@@ -1,4 +1,3 @@
-* [_layouts](_layouts)
 * [adv_animal](adv_animal)
 * [adv_geo](adv_geo)
 * [adv_history](adv_history)
